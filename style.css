@@ -49,3 +49,24 @@ button {
   border: none;
   margin-top: 51px;
 }
+
+#display-area {
+  width: 446px;
+  height: 180px;
+  margin: 35px auto;
+  border-top: 1px solid #2f3e53;
+  display: flex;
+  justify-content: space-between;
+}
+
+.password-section {
+  margin-top: 35px;
+  width: 211px;
+  height: 39px;
+  background-color: #273549;
+  border-radius: 6px;
+  color: #55f991;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
