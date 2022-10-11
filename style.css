@@ -16,3 +16,18 @@ body {
   height: 550px;
   background-color: #1f2937;
 }
+
+#header {
+  margin-left: 52px;
+  margin-top: 115px;
+}
+
+#slogan {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+span {
+  color: #4adf86;
+}
